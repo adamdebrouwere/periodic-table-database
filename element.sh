@@ -1,3 +1,4 @@
+#!/bin/bash
 #periodic table elements search program
 
 PSQL="psql --username=freecodecamp --dbname=periodic_table -t -c"
